@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning React + node.js<br>🎯 Goals: Master Fullstack</h4>
+<h4 align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Advanced Python<br>🎯 Goals: Master Django/Flask</h4>
 
 ###
 
