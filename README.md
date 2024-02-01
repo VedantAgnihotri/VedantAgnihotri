@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Advanced Python<br>🎯 Goals: Master Django/Flask</h4>
+<h4 align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Advanced JavaScript<br>🎯 Goals: Master Backend</h4>
 
 ###
 
