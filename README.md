@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend Development<br>🌱 I’m currently learning Express.js
+🔭 I’m currently working on Backend Development<br>🌱 I’m currently learning Redis and OAuth
 
 
 ## 🌐 Socials:
