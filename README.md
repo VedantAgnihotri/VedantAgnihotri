@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend Development<br>🌱 I’m currently learning Redis and OAuth
+🔭 I’m currently working on Fullstack Development<br>🌱 I’m currently learning React.js
 
 
 ## 🌐 Socials:
