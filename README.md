@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Fullstack Development<br>🌱 I’m currently learning React.js
+🔭 I’m currently working on Deep Learning<br>🌱 I’m currently learning Pytorch
 
 
 ## 🌐 Socials:
