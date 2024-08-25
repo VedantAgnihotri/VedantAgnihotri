@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ML/DL<br>🌱 I’m currently learning PyTorch and DL algorithms <br>👯 I’m looking to collaborate on Discord or Instagram
+🔭 I’m currently working on ML/DL<br>🌱 I’m currently learning PyTorch and DL algorithms <br>👯 I’m looking forward to collaborate on Discord or Instagram
 
 
 ## 🌐 Socials:
