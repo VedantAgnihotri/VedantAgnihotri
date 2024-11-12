@@ -1,6 +1,6 @@
 👋 Hi, I'm Vedant Agnihotri!
 
-I'm a dedicated 14-year-old developer with **3 years of experience(started in 2020)** endowed with a strong foundation in **web development**, now specializing in **deep learning**. My current focus is on **natural language processing (NLP)** and mastering transformer architectures with **PyTorch**, with the nearest goal of learning and leveraging **large language models (LLMs)**. With experience in backend technologies like **Node.js, Express.js, JWT, Redis and MongoDB, alongside front-end frameworks**, I bring a comprehensive skill set to my projects. I’m constantly exploring new ways to utilize NLP and deep learning for innovative applications, while expanding my expertise in advanced AI & DL concepts.
+I'm a dedicated 14-year-old developer with **3 years of experience(since 2020)** endowed with a strong foundation in **web development**, now specializing in **deep learning**. My current focus is on **natural language processing (NLP)** and mastering transformer architectures with **PyTorch**, with the nearest goal of learning and leveraging **large language models (LLMs)**. With experience in backend technologies like **Node.js, Express.js, JWT, Redis and MongoDB, alongside front-end frameworks**, I bring a comprehensive skill set to my projects. I’m constantly exploring new ways to utilize NLP and deep learning for innovative applications, while expanding my expertise in advanced AI & DL concepts.
 
 
 ## 🌐 Socials:
